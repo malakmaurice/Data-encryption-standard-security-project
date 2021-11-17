@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1637007172 source:e:\new e\hbh\main.cpp
+	<math.h>
+	<iostream>
+	<map>
+	<string>
+	<unordered_map>
+	<vector>
+
+1637109283 source:e:\new e\des security project\main.cpp
+	<math.h>
+	<iostream>
+	<map>
+	<string>
+	<unordered_map>
+	<vector>
+
+1637111255 source:e:\new e\data-encryption-standard-security-project\main.cpp
+	<math.h>
+	<iostream>
+	<map>
+	<string>
+	<unordered_map>
+	<vector>
+	<algorithm>
+
